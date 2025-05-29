@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Ai HealthCare App [WealthZen App]](https://github.com/allknowledge34/WealthZen.git)
 
-- 🌱 I’m currently learning **Unreal Engine5 Game Development**
+- 🌱 I’m currently learning **Jetpack compose App Development**
 
-- 👯 I’m looking to collaborate on **Ethereal Chronicles Game**
+- 👯 I’m looking to collaborate on **Ludo tournament Android game**
 
-- 👨💻 All of my projects are available at [https://pinkeshportfolio.netlify.app/](https://pinkeshportfolio.netlify.app/)
+- 👨💻 All of my projects are available at [https://www.pinkesh.site/](https://www.pinkesh.site/)
 
 - 💬 Ask me about **............**
 
 - 📫 How to reach me **allknowledge34@gmail.com**
 
-- 📄 Know about my experiences [Participated in 8+ hackathons and successfully completed 30+ projects, showcasing expertise in development and innovation.](Participated in 8+ hackathons and successfully completed 30+ projects, showcasing expertise in development and innovation.)
+- 📄 Know about my experiences [Participated in 5+ hackathons and successfully completed 30+ projects, showcasing expertise in development and innovation.](Participated in 8+ hackathons and successfully completed 30+ projects, showcasing expertise in development and innovation.)
 
 - ⚡ Fun fact **I am Funny😉**
 
